@@ -6,5 +6,7 @@
             "email": "and.trubetskoy@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "symfony/symfony": "2.8"
+    }
 }
